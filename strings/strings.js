@@ -9,7 +9,7 @@ console.log(text.charCodeAt(1));
 console.log(String.fromCodePoint(134071));  
 
 function codePointLength(text) {
-    var result = text.match(/[\s\S]/gu);
+    var result = text.match(/[\s\S]/gu);  //u for unicode characters
     return result ? result.length : 0;
 }
 
