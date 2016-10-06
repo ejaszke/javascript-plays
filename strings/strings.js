@@ -30,5 +30,5 @@ var str = "Karol ma karty";
 var n = str.search(/kar/i); 
 console.log(n);
 
-What are the results of all console.log ?
+//What are the results of all console.log ?
 
