@@ -49,3 +49,6 @@ fabric.properties
 .idea/javascript-plays.iml
 .idea/misc.xml
 .idea/modules.xml
+.gitignore
+node_modules/
+package.json
